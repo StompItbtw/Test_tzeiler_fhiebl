@@ -1,0 +1,6 @@
+cd test
+cd test_tzeiler_fhiebl
+git add tzeiler.txt
+git commit -m "Änderung tzeiler"
+git push
+git pull
