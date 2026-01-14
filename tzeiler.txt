@@ -4,3 +4,5 @@ git add tzeiler.txt
 git commit -m "Änderung tzeiler"
 git push
 git pull
+
+git pull
